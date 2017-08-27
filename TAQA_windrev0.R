@@ -1,4 +1,4 @@
-# set up the following library packages
+# set up the following library packages ####
 
 library(lubridate) # used to covert Date and Time info into a defined structure
 library(ggplot2) # used for creating specific plots
@@ -8,6 +8,7 @@ library(moments) #
 library(fBasics) #
 library(fitdistrplus) # used for fitting distribution function
 library(stats)
+####
 # evaluate which 'working directive' you work in; 
 # is that the 'working directive' you want to work in?
 getwd()
